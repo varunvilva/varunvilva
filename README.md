@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelegendvilva&label=Profile%20views&color=0e75b6&style=flat" alt="thelegendvilva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelegendvilva" alt="thelegendvilva" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/varun_vilva" target="blank"><img src="https://img.shields.io/twitter/follow/varun_vilva?logo=twitter&style=for-the-badge" alt="varun_vilva" /></a> </p>
 
 - 🌱 I’m currently learning **machine learning techniques and algorithms**
