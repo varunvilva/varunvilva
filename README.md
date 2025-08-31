@@ -1,6 +1,5 @@
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Varun Vilvadrinath
+<img width="960" height="239" alt="image" src="https://github.com/user-attachments/assets/59988d60-362d-4d24-9b77-ebf72b651bc4" />
 
-![Header](https://github.com/varunvilva/varunvilva/blob/main/VarunVIlvarinath.gif)
 
 ## 💫 About Me
 
